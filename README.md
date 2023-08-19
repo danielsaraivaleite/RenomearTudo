@@ -3,13 +3,16 @@ Um projeto de 2004 de um sistema Windows para renomear arquivos em massa com div
 
 ## Instalador
 ```
-renomear_tudo_setup.exe
+setup.exe
 ```
 
 ## Reviews
 - https://renomear-tudo.softonic.com.br
 - https://sergiosoft.blogspot.com/2011/04/renomeartudoportable.html
 - http://jocieltec.blogspot.com
+- https://ajuda.zievo.com.br/como-retirar-todos-os-caracteres-especiais-das-musicas/
+- http://www.lemon.com.br/produto.cfm?id=3291
+- 
 
 ## Videos feitos por usuários
 - https://www.youtube.com/watch?v=8uhj_VlwGzY
