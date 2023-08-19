@@ -6,6 +6,9 @@ Um projeto de 2004 de um sistema Windows para renomear arquivos em massa com div
 renomear_tudo_setup.exe
 ```
 
+# Reviews e como usar
+https://renomear-tudo.softonic.com.br
+
 ## Telas
 ![TELA1](https://github.com/danielsaraivaleite/RenomearTudo/assets/131724461/b73b16d0-b620-4620-a3bf-3ccfdf4d6444)
 
