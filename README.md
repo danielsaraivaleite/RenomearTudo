@@ -12,7 +12,7 @@ setup.exe
 - http://jocieltec.blogspot.com
 - https://ajuda.zievo.com.br/como-retirar-todos-os-caracteres-especiais-das-musicas/
 - http://www.lemon.com.br/produto.cfm?id=3291
-- 
+
 
 ## Videos feitos por usuários
 - https://www.youtube.com/watch?v=8uhj_VlwGzY
