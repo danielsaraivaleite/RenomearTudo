@@ -7,14 +7,14 @@ renomear_tudo_setup.exe
 ```
 
 ## Reviews
-https://renomear-tudo.softonic.com.br
-https://sergiosoft.blogspot.com/2011/04/renomeartudoportable.html
-http://jocieltec.blogspot.com
+- https://renomear-tudo.softonic.com.br
+- https://sergiosoft.blogspot.com/2011/04/renomeartudoportable.html
+- http://jocieltec.blogspot.com
 
 ## Videos feitos por usuários
-https://www.youtube.com/watch?v=8uhj_VlwGzY
-https://www.youtube.com/watch?v=iTx5bICcppE
-https://www.youtube.com/watch?v=6LpEIqvynvQ
+- https://www.youtube.com/watch?v=8uhj_VlwGzY
+- https://www.youtube.com/watch?v=iTx5bICcppE
+- https://www.youtube.com/watch?v=6LpEIqvynvQ
 
 ## Telas
 ![TELA1](https://github.com/danielsaraivaleite/RenomearTudo/assets/131724461/b73b16d0-b620-4620-a3bf-3ccfdf4d6444)
